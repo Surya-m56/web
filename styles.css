@@ -1,0 +1,59 @@
+
+
+body{
+
+    background-image: url("formula1.jpeg");
+    background-size: cover;
+}
+.h1{
+    position: relative;
+    color: rgb(16, 15, 15); 
+    left: 500px;  
+    color:rgb(198, 47, 47)
+}
+div.heading{
+    position: relative;
+
+}
+div.icons{
+  
+  color: #fff;
+  text-shadow: 1px 2px 2px #117da8;
+}
+div.p {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  }
+.h3{
+    position: relative;
+    align-items: center;
+}
+.skills{
+    color:rgb(198, 47, 47);
+}
+.img{
+    display: relative;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+
+
+.p{
+    position: absolute;
+    right: 200px;
+    top:20x;
+    color: rgb(16, 15, 15);
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.p2{
+    position: relative;
+    
+    color: rgb(16, 15, 15);
+    font-family:'Times New Roman', Times, serif;
+}
